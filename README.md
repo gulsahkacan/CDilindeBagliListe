@@ -12,3 +12,4 @@ Projede şehirlerin komşuluk ilişkilerini dikkate alan harita verisi üzerinde
 ##### 8-	Belli bir komşu sayısı kriterine uyan şehirler bulunur ve listelenir.
 ##### 9-	Modelin mevcut yapısı “cikti.txt” dosyası içerisine yazdırılır.
 ##### 10-	Bütün isterler kullanıcıya bir menü olarak sunulur ve bir işlem yapıldıktan sonra aynı menü kullanıcı, programdan çıkana kadar tekrar gösterilir.
+![prolab1 3](https://user-images.githubusercontent.com/34886354/73457147-458f8880-4384-11ea-8301-024b3afb04bd.PNG)
